@@ -8,8 +8,9 @@
 # -----------------------------
 
 def amal():
-    print(" Hello everyone! This is Amal — let's make Git fun together!")
-
+    print("Hello everyone! This is Amal — let's make Git fun together!")
+def shiva():
+    print("Hello everyone! My name is shiva — let's make Git fun together!")
 # Example:
 # def alan():
 #     print("Hey, I'm Alan! Excited to teach Git and GitHub.")
@@ -20,5 +21,5 @@ def amal():
 
 amal()
 # alan()
-
-print("\n Program executed successfully! Great work, everyone!")
+shiva()
+print("\nProgram executed successfully! Great work, everyone!")
